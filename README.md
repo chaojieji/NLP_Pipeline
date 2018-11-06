@@ -1,13 +1,13 @@
 # NLP_Pipeline
 
 ---
-Requrements:
-numpy
-scipy
-jieba
-sklearn
-nltk
+Requrements:  
+numpy  
+scipy  
+jieba  
+sklearn  
+nltk  
 pandas  
-keras
-tensorflow
-statsmodels
+keras  
+tensorflow  
+statsmodels  
