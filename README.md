@@ -1,7 +1,7 @@
 # NLP_Pipeline
 
 ---
-Requrements:  
+#### Requrements:
 numpy  
 scipy  
 jieba  
@@ -10,4 +10,5 @@ nltk
 pandas  
 keras  
 tensorflow  
-statsmodels  
+statsmodels
+
