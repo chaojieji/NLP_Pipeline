@@ -2,12 +2,12 @@
 
 ---
 Requrements:
-numpy
-scipy
-jieba
-sklearn
-nltk
+numpy  
+scipy  
+jieba  
+sklearn  
+nltk  
 pandas  
-keras
-tensorflow
-statsmodels
+keras  
+tensorflow  
+statsmodels  
