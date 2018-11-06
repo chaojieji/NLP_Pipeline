@@ -1,7 +1,3 @@
-# NLP_Pipeline
-
----
-Requrements:
 numpy
 scipy
 jieba
