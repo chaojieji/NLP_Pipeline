@@ -7,7 +7,7 @@ scipy
 jieba
 sklearn
 nltk
-pandas
+pandas  
 keras
 tensorflow
 statsmodels
